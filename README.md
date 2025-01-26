@@ -1,1 +1,1 @@
-# This is a try at copying the famouse classical game Asteroids
+# This is a try at copying the famous classical game Asteroids
